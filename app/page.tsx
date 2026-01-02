@@ -39,7 +39,7 @@ export default function ComingSoon() {
               rotate: [0, 360, 0],
             }}
             transition={{
-              duration: 5,
+              duration: 30,
               ease: "easeInOut",
               repeat: Infinity,
               repeatType: "loop",
