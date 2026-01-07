@@ -5,11 +5,14 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'luso日本語 | Em Breve',
-  description: 'Aprende japonês com conteúdo feito para falantes de português. Em breve disponível.',
+  title: 'luso日本語 | Coming Soon',
+  description: 'Aprende japonês com conteúdo feito para falantes de português.',
   keywords: ['japonês', 'português', 'aprender japonês', 'língua japonesa', 'nihongo'],
+  icons: {
+    icon: '/logo.png',
+  },
   openGraph: {
-    title: 'luso日本語 | Em Breve',
+    title: 'luso日本語 | Coming Soon',
     description: 'Aprende japonês com conteúdo feito para falantes de português.',
     type: 'website',
   },
